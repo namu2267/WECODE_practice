@@ -1,0 +1,13 @@
+ * {
+   background-color:LemonChiffon;
+   text-decoration: none;
+   font-color: black;
+  }
+
+
+  .paragraph {
+    font-family: 'Sunflower', sans-serif;
+    font-size: 40px;
+    letter-spacing: 10px;
+    line-height: 70px;
+  }
